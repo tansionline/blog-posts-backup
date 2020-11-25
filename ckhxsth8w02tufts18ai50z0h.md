@@ -27,38 +27,32 @@ Selamlar. Ben Selçuk Tatar. Şu an Bilişim Güvenliği bölümü, ilk sınıf 
  [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
  ile Javascript dilinin işlevlerini öğrenebilirsiniz. İkinci önereceğim site ise [Freecodecamp](https://www.freecodecamp.org/learn javascript-algorithms-and-data-structures/basic-javascript/)
  Bu site sizlere yapmanız gerekenleri veriyor ve sizlerde online olarak kodları yazıyorsunuz. 
- <br><br>
+ <br>
  <h2>Level 2: Sanal Makinelerle Antremanlar</h2>
  <br>
   ![](https://tansionline.github.io/img/memes2.png)
  <br>
  Programlama ve basit kavramları öğrendiğimize göre artık yavaş yavaş ***Legal*** olarak nereleri hackleyebiliriz. Kolaydan zora doğru gidecegiz.
- 
  **Not: Sanal makinelere saldırmak için başlangıç seviyesi Linux bilginiz olmalıdır.** 
-
   <br>
   <h2>Tryhackme</h2>
   <br>
   ![](https://tansionline.github.io/img/tryhackme2.png)
-  <br><br>
+  <br>
   Tryhackme, başlangıç için ideal bir site. Buradaki kolay odalardan başlayarak yetenek setlerinizi geliştirebilirsiniz. Ayrıca buradaki bazı Toolları(araç) odalardan  nasıl çalıştığını öğrenebilirsiniz.
-
   **Bu toollar arasında Burp Suite kesinlikle olmalıdır. Çünkü bir sonraki site sırf bu tool üzerinedir.**
   <br><br>
   <h2>Port Swigger-Web Security</h2>
   <br>
  ![](https://tansionline.github.io/img/burp.png)
-  
-  <br><br>
+  <br>
   Burp Suite, Port Swigger adlı şirketin bir ürünüdür. Bu ürünün ücretli olan Professional ve ücretsiz olan Community versiyonları vardır. Dilediğinizi bilgisayarınıza kurabilirsiniz. Port Swigger, hem kendinizi geliştirmek hemde Burp Suite toolunu daha iyi kullanmanız için [Web Security](https://portswigger.net/web-security)
   adlı portalını kurdu. Burayı dileğiniz kadar kullanabilirsiniz.
-  <br>
   <br>
   <h2>Hacker 101-CTF</h2>
   <br>
   Hackerone adlı Güvenlik Şirketinin hazırladığı bu site sizleri diğer odalara göre biraz daha zorluyacak.  
   [CTF 101](https://ctf.hacker101.com/) Hackerone destekli olduğu için avantaj olarak bir süre sonra Hackerone üzerinden sizlere private bounty programları getirebilir. 
-  <br>
   <br>
   <h2>Level 3: Son olarak Tavsiyelerim </h2>
   <br>
