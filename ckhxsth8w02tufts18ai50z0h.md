@@ -6,7 +6,7 @@ Selamlar. Ben Selçuk Tatar. Şu an Bilişim Güvenliği bölümü, ilk sınıf 
 **Not: İngilizce kaynaklar içerir.**
 
 <h2>Level 0: Hazırlık</h2>
-<br><br>
+<br>
  İlk önce eyleme geçmeden bazı kavramları bilmeliyiz. Bunun için 
  Zafiyet Araştırmacısı olan Mehmet İncenin [Web Securiy 101](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT) serisini şiddetle tavsiye ediyorum.
 <br><br>
@@ -15,9 +15,9 @@ Selamlar. Ben Selçuk Tatar. Şu an Bilişim Güvenliği bölümü, ilk sınıf 
  HTTP anlamak içinse Hacker101'in 
  [Web In Depth](https://www.hacker101.com/sessions/web_in_depth) adlı eğitimini izleyebilirsiniz.
  <h2>Level 1: Programlama</h2>
- <br><br>
+ <br>
  ![](https://tansionline.github.io/img/memes1.png)
- <br><br>
+ <br>
  Web Güvenliğini anlamak için ilk başta nasıl kodlandığı ve nasıl çalıştığını anlamak gerekir. Bunun içinse ilk başta  HTML biçimlendirme dilini bilmek gerekir. 
  HTML dilini öğrenmenin en kolay yollarından biride 
  [W3Schools](https://www.w3schools.com/html/) sitesidir.
@@ -29,16 +29,16 @@ Selamlar. Ben Selçuk Tatar. Şu an Bilişim Güvenliği bölümü, ilk sınıf 
  Bu site sizlere yapmanız gerekenleri veriyor ve sizlerde online olarak kodları yazıyorsunuz. 
  <br><br>
  <h2>Level 2: Sanal Makinelerle Antremanlar</h2>
- <br><br>
+ <br>
   ![](https://tansionline.github.io/img/memes2.png)
- <br><br>
+ <br>
  Programlama ve basit kavramları öğrendiğimize göre artık yavaş yavaş ***Legal*** olarak nereleri hackleyebiliriz. Kolaydan zora doğru gidecegiz.
  
  **Not: Sanal makinelere saldırmak için başlangıç seviyesi Linux bilginiz olmalıdır.** 
 
-  <br><br>
+  <br>
   <h2>Tryhackme</h2>
-  <br><br>
+  <br>
   ![](https://tansionline.github.io/img/tryhackme2.png)
   <br><br>
   Tryhackme, başlangıç için ideal bir site. Buradaki kolay odalardan başlayarak yetenek setlerinizi geliştirebilirsiniz. Ayrıca buradaki bazı Toolları(araç) odalardan  nasıl çalıştığını öğrenebilirsiniz.
@@ -46,9 +46,9 @@ Selamlar. Ben Selçuk Tatar. Şu an Bilişim Güvenliği bölümü, ilk sınıf 
   **Bu toollar arasında Burp Suite kesinlikle olmalıdır. Çünkü bir sonraki site sırf bu tool üzerinedir.**
   <br><br>
   <h2>Port Swigger-Web Security</h2>
-  <br><br>
+  <br>
  ![](https://tansionline.github.io/img/burp.png)
-  <br><br>
+  
   <br><br>
   Burp Suite, Port Swigger adlı şirketin bir ürünüdür. Bu ürünün ücretli olan Professional ve ücretsiz olan Community versiyonları vardır. Dilediğinizi bilgisayarınıza kurabilirsiniz. Port Swigger, hem kendinizi geliştirmek hemde Burp Suite toolunu daha iyi kullanmanız için [Web Security](https://portswigger.net/web-security)
   adlı portalını kurdu. Burayı dileğiniz kadar kullanabilirsiniz.
@@ -62,9 +62,7 @@ Selamlar. Ben Selçuk Tatar. Şu an Bilişim Güvenliği bölümü, ilk sınıf 
   <br>
   <h2>Level 3: Son olarak Tavsiyelerim </h2>
   <br>
-  <br>
    ![](https://tansionline.github.io/img/cat.gif)
-  <br>
   <br>
    Sonraki adım olarak bol bol raporlar okumak veya blog yazıları okuyup yazabilirsiniz. Peki blog yazıları veya raporları okumak için nereleri ziyaret etmeliyiz?
 
